@@ -1,5 +1,5 @@
 //STORAGE OF BROWSER
-const CACHE_NAME = "version-2.1";
+const CACHE_NAME = "version-2.2";
 const urlsToCache = ["index.html", "tp1.html"];
 const self = this;
 

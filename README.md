@@ -3,7 +3,7 @@
 test repo for developing pwa
 
 ---
-
+Version: 2.2
 [link](https://aia-dan.github.io/pwatest/)
 
 ---
@@ -12,7 +12,7 @@ test repo for developing pwa
 
 - [X] Repo live
 - [ ] Redone in React
-- [ ] PWA Capable
+- [X] PWA Capable
 
 ### Special Thanks
 
