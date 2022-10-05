@@ -3,7 +3,7 @@
 test repo for developing pwa
 
 ---
-Version: 2.2
+Version: 2.4
 [link](https://aia-dan.github.io/pwatest/)
 
 ---
