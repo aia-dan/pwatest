@@ -1,6 +1,6 @@
 //STORAGE OF BROWSER
-const CACHE_NAME = "version-2.3";
-const urlsToCache = ["index.html", "tp1.html"];
+const CACHE_NAME = "version-2.4";
+const urlsToCache = ["index.html", "tp1.html", "offline.html"];
 const self = this;
 
 //installation
