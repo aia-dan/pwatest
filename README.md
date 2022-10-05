@@ -13,7 +13,7 @@ Version: 2.2
 - [X] Repo live
 - [ ] Redone in React
 - [X] PWA Capable
-- [ ] PWA popup for installation
+- [X] PWA popup for installation
 
 ### Special Thanks
 
